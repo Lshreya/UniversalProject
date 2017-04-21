@@ -1,0 +1,243 @@
+{
+  "productGroup": [
+    {
+      "id": "1",
+      "name": "CUPLOCK SYSTEM",
+      "imagePath": "ProductImages/cuplockImage.jpg",
+      "description":"Universal's Cup-Lock standards and ledgers are made only from the highest quality 48.6mm diameter tube and are hot dip galvanized, making them long-lasting and durable. Cup-lock systems are versatile scaffolding systems that are used for various forms of access and support structures. These are used in building and construction industries. Our engineering team can assist our customers with the design of both interior and exterior solutions for all types of construction projects, shoring designs, and complex industrial applications, and using systems.",
+      "products": [
+        {
+          "id": "1",
+          "name": "Adapters",
+          "imagePath": "ProductImages/cuplock/adapters.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Heavy Duty Steel  Ladder",
+          "imagePath": "ProductImages/cuplock/heavyDutySteelLadder.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Horizontal Ledger",
+          "imagePath": "ProductImages/cuplock/horizontal ledger.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Screw Jacks",
+          "imagePath": "ProductImages/cuplock/screwJacks.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Side Brackets",
+          "imagePath": "ProductImages/cuplock/sideBrackets.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Stairway Set",
+          "imagePath": "ProductImages/cuplock/stairwaySet.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Swivel Clamp Brace",
+          "imagePath": "ProductImages/cuplock/swivelClampBrace.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Swivel Face Brace",
+          "imagePath": "ProductImages/cuplock/swivelFaceBrace.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Truss Ledger",
+          "imagePath": "ProductImages/cuplock/trussLedger.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Vertical Standard",
+          "imagePath": "ProductImages/cuplock/verticalStandard.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "FRAME SCAFFOLDING",
+      "description":"Universal’s line of scaffold frames are the most versatile and durable frames on the market. We offer both hot-dip galvanized and powder coated frames in a broad range of sizes and styles to ensure compatibility with all other manufacturers’ frames.",
+      "products": [
+        {
+          "id": "1",
+          "name": "8\" Cast wheel",
+          "imagePath": "ProductImages/frames/8\" CasterWheels.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Angle Iron Cross Braces",
+          "imagePath": "ProductImages/frames/angleIronCrossBraces.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Guard Rail Posts",
+          "imagePath": "ProductImages/frames/guardRailPosts.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Mansonry Ladder Frames",
+          "imagePath": "ProductImages/frames/mansonryLadderFrames.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Pins",
+          "imagePath": "ProductImages/frames/pins.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Screw Jacks",
+          "imagePath": "ProductImages/frames/screwJack.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Side Brackets",
+          "imagePath": "ProductImages/frames/sideBrackets.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Tabular Single Hole Cross Braces",
+          "imagePath": "ProductImages/frames/tabularSingleHoleCrossBraces.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Tubular Dual Hole Cross Braces",
+          "imagePath": "ProductImages/frames/tubularDualHoleCrossBraces.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Walk-thru Frames",
+          "imagePath": "ProductImages/frames/walk-thruFrames.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "PLANKS & DECKING",
+      "imagePath": "ProductImages/Planks.jpg",
+      "description":"",
+      "products": [
+        {
+          "id": "1",
+          "name": "12-1/2 Steel Plank",
+          "imagePath": "ProductImages/planks/12 HalfSteelPlank.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Low Profile Steel Plank",
+          "imagePath": "ProductImages/planks/lowProfileSteelPlank.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Standard Steel Plank",
+          "imagePath": "ProductImages/planks/standardSteelPlank.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "RINGLOCK",
+      "imagePath": "ProductImages/ringlockImage.jpg",
+      "description":"",
+      "products": [
+        {
+          "id": "1",
+          "name": "17\" Ladder",
+          "imagePath": "ProductImages/Ringlock/17\"ladder.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Adapter Clamp",
+          "imagePath": "ProductImages/Ringlock/adapter clamp.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Base Collar",
+          "imagePath": "ProductImages/Ringlock/base collar.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Bay Braces",
+          "imagePath": "ProductImages/Ringlock/bay braces.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Double Ledger",
+          "imagePath": "ProductImages/Ringlock/double ledger.jpg"
+        },
+       {
+          "id": "6",
+          "name": "Horizontal Ledger",
+          "imagePath": "ProductImages/Ringlock/horizontal ledgers.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Screw Jack",
+          "imagePath": "ProductImages/Ringlock/screw jack.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Stair Way Set",
+          "imagePath": "ProductImages/Ringlock/stairway set.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Swivel Clamp Braces",
+          "imagePath": "ProductImages/Ringlock/swivel clamp braces.jpg"
+        },
+        {
+          "id": "10",
+          "name": "System Side Brackets",
+          "imagePath": "ProductImages/Ringlock/system side brackets.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Truss Ledgers",
+          "imagePath": "ProductImages/Ringlock/truss Ledgers.jpg"
+        },
+        {
+          "id": "12",
+          "name": "Vertical Standard",
+          "imagePath": "ProductImages/Ringlock/vertical standard.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "SHORING PRODUCTS",
+      "imagePath": "ProductImages/ShoringProducts.jpg",
+      "description":"Universal Scaffolding & Equipment's extensive engineering and design knowledge allows our engineering team to develope efficient designs for all industrial and commercial applications, from complex to simple. Our engineering team regularly assists our customers with the design of both interior and exterior scaffolding solutions for all types of construction projects, shoring designs, and complex industrial applications, using systems such as our Uni-Lock and our Cup-Lock product lines. Our engineers have the ability to provide our customers with stamped, engineered design drawings, material lists, and underlying load calculations.", 
+      "products": [
+        {
+          "id": "1",
+          "name": "Angle Iron Cross Braces",
+          "imagePath": "ProductImages/shoring_products/angleIronCrossBraces.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Euro Style Post Shore",
+          "imagePath": "ProductImages/shoring_products/euroStylePostShore.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Heavy Duty Post Shore",
+          "imagePath": "ProductImages/shoring_products/heavyDutyPostShore.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Shoring Accesories",
+          "imagePath": "ProductImages/shoring_products/shoringAccessories.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Shoring Frames",
+          "imagePath": "ProductImages/shoring_products/shoringFrames.jpg"
+        }
+      ]
+    }
+  ]
+}

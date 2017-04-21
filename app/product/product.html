@@ -1,0 +1,28 @@
+<div class="product">
+	<div class="container">
+		<div *ngFor="let productGroup of productGroups.productGroup | productGroupFilter:id">
+			<div class=	"row">
+				
+				<div class="product-name" class="col-md-3">
+					<h3><strong><a (click)="onSelectProductGroup()">{{productGroup.name}}</a></strong></h3>
+					
+					<ul class="product-table" class="nav nav-pills nav-stacked" font-color="red">
+						
+						<li *ngFor="let product of productGroup.products">
+					
+							<a (click)="onSelect(product)">{{product.name}}</a>
+						</li>
+					</ul>		
+				</div>
+				
+				<div class="" class="col-md-9" *ngIf="currentProduct">
+						<img src="{{currentProduct.imagePath}}" height="400px">
+				</div>
+					<div *ngIf="!currentProduct">
+						<h3>{{productGroup.description}}</h3>
+					</div>
+					
+			</div>
+		</div>
+	</div>
+</div>	
