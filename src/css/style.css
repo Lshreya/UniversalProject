@@ -80,7 +80,7 @@ a:hover {
 }
 .navbar-brand img {
   height: 100px; 
-  width: auto;
+  width: 130px;
 }
 
 @media (max-width: 767px) {
@@ -458,9 +458,8 @@ ul.social_icons li  a i{
   opacity:.8;
 }
 
-.team .social_icons .fa-facebook:hover, 
-.team .social_icons .fa-twitter:hover, 
-.team .social_icons .fa-google-plus:hover {
+
+.team .social_icons .fa-twitter:hover, {
   transform: rotate(360deg);
   -ms-transform:rotate(360deg);
   -webkit-transform:rotate(360deg); 
@@ -474,17 +473,12 @@ ul.social_icons li  a i{
   -o-transition: all 0.9s ease 0s;
 }
 
-.team .social_icons .fa-facebook {
-  background: #0182c4;
-}
 
 .team .social_icons .fa-twitter {
   background: #20B8FF
 }
 
-.team .social_icons .fa-google-plus {
-  background: #D34836
-}
+
 
 
 .team-bar .first-one-arrow {
@@ -822,12 +816,6 @@ figure.effect-marley:hover p {
 	position:relative;
 	margin-top:-20px;
 	margin-bottom:40px;
-}
-
-/* google map */
-#google-map{
-	position:relative;
-    height: 400px;
 }
 
 .contact-page{
@@ -1362,4 +1350,13 @@ text-align: center;
   transition:  color 300ms, background-color 300ms;
 }
 
+}
+.product{
+  padding:30px;
+}
+.map .Universal-map img{
+    margin: auto;
+    height: 600px;
+    width: 80%;
+    padding: 10px;
 }

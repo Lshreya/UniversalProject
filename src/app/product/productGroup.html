@@ -1,11 +1,12 @@
 <div class="product-Group">
 	<div class="text-center">
-		<h2>PRODUCTS</h2>	
+		<h1><strong>PRODUCTS</strong></h1>	
 			<div class="container">
 				<div class="row">
 					<div class="group-Name">
 						<div (click)="onSelect(productGroup)" *ngFor="let productGroup of data.productGroup" class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
-							<a><img src="{{productGroup.imagePath}}" height="200px"><p><strong>{{productGroup.name}}</strong></p></a>
+							<img src="{{productGroup.imagePath}}" height="200px">
+							<p><strong><a>{{productGroup.name}}</a></strong></p>
 								
 						</div>     
 					</div>

@@ -4,9 +4,9 @@
 			<div class=	"row">
 				
 				<div class="product-name" class="col-md-3">
-					<h3><strong><a (click)="onSelectProductGroup()">{{productGroup.name}}</a></strong></h3>
+					<h1><strong><a (click)="onSelectProductGroup()">{{productGroup.name}}</a></strong></h1>
 					
-					<ul class="product-table" class="nav nav-pills nav-stacked" font-color="red">
+					<ul class="product-table" class="nav nav-pills nav-stacked">
 						
 						<li *ngFor="let product of productGroup.products">
 					
@@ -16,7 +16,7 @@
 				</div>
 				
 				<div class="" class="col-md-9" *ngIf="currentProduct">
-						<img src="{{currentProduct.imagePath}}" height="400px">
+						<img src="{{currentProduct.imagePath}}" height="500px" width="600px">
 				</div>
 					<div *ngIf="!currentProduct">
 						<h3>{{productGroup.description}}</h3>
