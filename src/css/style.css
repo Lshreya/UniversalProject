@@ -1351,7 +1351,7 @@ text-align: center;
 }
 .product{
   padding:30px;
-  min-height: 700px;
+  min-height: 800px;
 }
 .product-Group {
   text-align: center;
@@ -1375,4 +1375,9 @@ text-align: center;
 .nav-pill >li > a:visited {
 	color:#000;
 	background:#b2b580;
+}
+.currentProduct{
+   border-left-style: solid;
+  
+    border-width: 5px;
 }
