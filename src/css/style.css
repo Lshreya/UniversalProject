@@ -129,15 +129,13 @@ a:hover {
 
 .nav-tabs > li > a:hover {
 	color:#272727;
-	background:#fff;	
+	background: #fff;	
 } 
 
 .nav-tabs > li a.active {
 	color: #555;
 	cursor: default;
-	background-color: #fff;
-	border: 1px solid #fff;
-	border-bottom-color:#fff;
+
 }
 
 .navbar-default {
@@ -1353,10 +1351,28 @@ text-align: center;
 }
 .product{
   padding:30px;
+  min-height: 700px;
+}
+.product-Group {
+  text-align: center;
+  min-height: 800px;
 }
 .map .Universal-map img{
     margin: auto;
     height: 600px;
-    width: 80%;
+    width: 70%;
     padding: 10px;
+}
+.nav-pills > li > a{
+	color:red;
+	cursor: default;
+
+}
+.nav-pills > li > a:hover {
+	color:black;
+	background: #fff;	
+} 
+.nav-pill >li > a:visited {
+	color:#000;
+	background:#b2b580;
 }

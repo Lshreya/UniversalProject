@@ -6,7 +6,7 @@
 				<div class="product-name" class="col-md-3">
 					<h1><strong><a (click)="onSelectProductGroup()">{{productGroup.name}}</a></strong></h1>
 					
-					<ul class="product-table" class="nav nav-pills nav-stacked">
+					<ul class="nav nav-pills nav-stacked">
 						
 						<li *ngFor="let product of productGroup.products">
 					
@@ -19,7 +19,7 @@
 						<img src="{{currentProduct.imagePath}}" height="500px" width="600px">
 				</div>
 					<div *ngIf="!currentProduct">
-						<h3>{{productGroup.description}}</h3>
+						<h3><em>{{productGroup.description}}</em></h3>
 					</div>
 					
 			</div>
